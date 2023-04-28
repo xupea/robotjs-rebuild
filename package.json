@@ -1,0 +1,16 @@
+{
+  "name": "robotjs-rebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rebuild": "electron-rebuild -f -w robotjs -v 23.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-rebuild": "^2.3.5",
+    "robotjs": "^0.6.0"
+  }
+}
